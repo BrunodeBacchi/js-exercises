@@ -1,10 +1,10 @@
 # Js exercises
 This is a collection of exercises that i did to train my skills in JavaScript and HTML & CSS.
 
-## 1 - Adding
+## 1 - Adding [Adding Exercise](adding)
 The adding exercise take two numbers, which are informed by the user, and gives us their sum.
 
-## 2 - Age Calculator
+## 2 - Age Calculator  
 The age calculator exercise make a simple minus account to find out the age of the user. Using the date of the computer, you enter your year of birth and the account is made.
 
 ## 3 - Average
