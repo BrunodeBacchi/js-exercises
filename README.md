@@ -1,7 +1,7 @@
 # Js exercises
 This is a collection of exercises that i did to train my skills in JavaScript and HTML & CSS.
 
-### 1 - Adding
+## 1 - Adding
 The adding exercise take two numbers, which are informed by the user, and gives us their sum.
 
 ## 2 - Age Calculator
