@@ -1,4 +1,4 @@
-# Js exercises
+# Js Exercises
 This is a collection of codes that i did to train my skills in JavaScript and HTML & CSS.
 
 ## 1 - [Adding](adding)
