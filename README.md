@@ -11,7 +11,7 @@ The age calculator exercise make a simple minus account to find out the age of t
 This exercise takes an average of two notes that the user enters, and also captures the name of the person.
 
 ## 4 - Calculator
-This is a simple calculator with its 4 basic functions.
+This is a simple calculator with its 4 basic functions, whixh is done with the `switch case` command.
 
 ## 5 - Click Count
 Here we have a click count were you click on a `<button>` element and, with each click, the counter increases.
@@ -23,7 +23,7 @@ In this countdown, when clicking on the `<button>` element, a count from 1 to 10
 In this countdown, whe have a count from 1 to 10, like the previously exercise, but in this case, we hide all numbers that are not even, showing only the ones that are evens.
 
 ## 8 - Date Hour
-This exercise take the `Date` element that take all the systens informations about the date. Like hours, minutes, day, month and others.
+This exercise take the `Date` command that take all the systens informations about the date. Like hours, minutes, day, month and others.
 
 ## 9 - Factorial
 This exercise makes the factorial math count.
@@ -39,3 +39,18 @@ This is a simple exercise that tell you the greater number among those who the u
 
 ## 13 - Number Generator
 Here we have a number generator that gives you a randon number each time you click on the `<button>` element.
+
+## 14 - Numbers
+This exercise gives you a wide variety of results from a number that the user inform.
+
+## 15 - Reverse Countdowns
+This exercise is like the others two countdowns, but makes the reverse way, counting from 10 to 1.
+
+## 16 - Seasons Brazil
+This exercise receives the information of the month that the user wants to check, and with the switch case command, he return the season of the year.
+
+## 17 - Smart Count
+This exercise do a counter that receive a inicial number and a ending number by the `<input>` element, and makes a countdown with them.
+
+## 18 - System Interact
+This exercise gives you the system informations with the `Date` command.
